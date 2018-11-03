@@ -1,0 +1,42 @@
+body {
+    background-color: #bf9b0f;
+    background-image: url("../images/480296406_1280x720.jpg")
+}
+
+.container {
+    width: 800px;
+    text-align: center;
+    color: #f7c01e;
+    margin: auto;
+    background-color: rgb(5, 107, 107);
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 10px;
+    border: 10px;
+}
+
+.timer {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    padding: 10px;
+}
+
+button {
+    border-style: hidden;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #f7c01e;
+    color: rgb(5, 107, 107);
+    
+}
+
+label {
+    margin-left: 20px;
+}
