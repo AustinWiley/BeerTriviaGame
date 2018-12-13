@@ -14,3 +14,6 @@
 * Though the game works I could clean up my JS a bit.
 * I could also add the ability to see the answers after the game is ended.
 * I would also like to add a dificulty feature which changes the amount of time on the clock.
+
+
+## Visit the site:  [BEER TRIVIA](https://themeforest.net/category/site-templates?tags=cv,resume,portfolio)
