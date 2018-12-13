@@ -16,4 +16,4 @@
 * I would also like to add a dificulty feature which changes the amount of time on the clock.
 
 
-## Visit the site:  [BEER TRIVIA](https://themeforest.net/category/site-templates?tags=cv,resume,portfolio)
+### Play the game here:  [BEER TRIVIA](https://austinwiley.github.io/BeerTriviaGame/)
