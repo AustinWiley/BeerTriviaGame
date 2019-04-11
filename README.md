@@ -11,6 +11,7 @@
 
 
 ## Other features I could add but havn't yet
+
 * Though the game works I could clean up my JS a bit.
 * I could also add the ability to see the answers after the game is ended.
 * I would also like to add a dificulty feature which changes the amount of time on the clock.
